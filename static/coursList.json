@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "name": "1-1-1",
+    "description": "报表数据从哪里来",
+    "image": "static/courseImg/1-1-1报表数据从哪来.png",
+    "video": "static/courseVideo/1-1-1报表数据从哪来.mp4",
+    "iframe": "<iframe src=\"//player.bilibili.com/player.html?isOutside=true&aid=113716825759557&bvid=BV1aBCBYCExs&cid=32457098354&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe>"
+  },
+  {
+    "id": "2",
+    "name": "1-1-2",
+    "description": "京东现金流变化",
+    "image": "static/courseImg/1-1-2京东现金流变化.webp",
+    "video": "static/courseVideo/1-1-2京东现金流变化.mp4"
+  },
+  {
+    "id": "3",
+    "name": "1-1-3",
+    "description": "csmar",
+    "image": "static/courseImg/1-1-3csmar.webp",
+    "video": "static/courseVideo/1-1-3csmar.mp4"
+  },
+  {
+    "id": "4",
+    "name": "1-1-4",
+    "description": "中兴通讯毛利率",
+    "image": "static/courseImg/1-1-4中兴通讯毛利率.gif",
+    "video": "static/courseVideo/1-1-4中兴通讯毛利率.mp4"
+  }
+]
