@@ -6,9 +6,8 @@ var $iframe = $("iframe"),
             <div class="video-filler">
             </div>
             <button class="video-close">&times;</button>
-            <iframe class="video-iframe" src="{{iframevideo}}" frameborder="0" allowfullscreen>
-            </iframe>
-        </div>
+            <iframe class="video-iframe" allow="autoplay; encrypted-media; fullscreen"  src="https://player.bilibili.com/player.html?isOutside=true&aid=113716825759557&bvid=BV1aBCBYCExs&cid=32457098354&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+、        </div>
     <div/>`;
 $videoLink.on("click", function (e) {
   var localTemplate = "",
